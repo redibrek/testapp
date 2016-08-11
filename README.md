@@ -1,2 +1,0 @@
-# testapp
-Just another respository
